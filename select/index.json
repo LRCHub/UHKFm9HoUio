@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "3月の帰り道",
+  "base_artist": "平井 大",
+  "createdAt": "2026-03-02T00:07:00.891681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "3月の帰り道",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/01_3月の帰り道_HIRAIDAI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3月の帰り道",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_3月の帰り道_平井大.txt"
+    }
+  ]
+}
